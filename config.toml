@@ -15,6 +15,7 @@ enableEmoji = true
 author = "Manuel Lecha"
 info = ["Mathematics & Computer Science"]
 avatarURL = "images/Logo.png"
+description = "Manuel Lecha's personal website"
 #gravatar = "mlechasanchez@gmail.com"
 showcredit = false
 since = 2022
