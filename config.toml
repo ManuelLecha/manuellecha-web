@@ -9,8 +9,6 @@ pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 
-
-
 [params]
 author = "Manuel Lecha"
 info = ["Mathematics & Computer Science"]
@@ -21,7 +19,6 @@ showcredit = false
 since = 2022
 colorScheme = "auto"
 hideColorSchemeToggle = false
-
 
 [taxonomies]
 category = "categories"
