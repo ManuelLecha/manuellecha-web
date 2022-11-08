@@ -12,6 +12,7 @@ enableEmoji = true
 [params]
 author = "Manuel Lecha"
 info = ["Mathematics & Computer Science"]
+keywords = "personal"
 avatarURL = "images/Logo.png"
 description = "Manuel Lecha's personal website"
 #gravatar = "mlechasanchez@gmail.com"
