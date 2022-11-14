@@ -5,5 +5,9 @@ draft: false
 description: "About Me" 
 ---
 
-[Me][static/images/me.png] 
+<!---
+<div data-role="gravatar" data-email="mlechasanchez@gmail.com"></div>
+-->
+
+![Me](static/images/me.png)
 
