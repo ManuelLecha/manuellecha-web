@@ -9,5 +9,5 @@ description: "About Me"
 <div data-role="gravatar" data-email="mlechasanchez@gmail.com"></div>
 -->
 
-![Me](static/images/me.png)
+![Me](../static/images/me.png)
 
