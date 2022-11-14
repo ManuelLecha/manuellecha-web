@@ -5,9 +5,7 @@ draft: false
 description: "About Me" 
 ---
 
-<!---
-<div data-role="gravatar" data-email="mlechasanchez@gmail.com"></div>
--->
 
-<image src="/me.png" alt="This is how I look like" position="center" style="border-radius: 8px;">
+
+{{<image src="I.png" alt="This is how I look like" position="center" style="border-radius: 8px; height: 100px; width:100px;">}}
 
