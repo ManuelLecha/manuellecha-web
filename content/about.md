@@ -9,5 +9,5 @@ description: "About Me"
 <div data-role="gravatar" data-email="mlechasanchez@gmail.com"></div>
 -->
 
-![This is me](../static/images/me.png)
+<image src="/me.png" alt="This is how I look like" position="center" style="border-radius: 8px;">
 
