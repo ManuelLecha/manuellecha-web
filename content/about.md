@@ -6,15 +6,6 @@ description: "About Me"
 ---
 
 <style>
-* {
-  box-sizing: border-box;
-}
-
-/* Set a background color */
-body {
-  background-color: #474e5d;
-  font-family: Helvetica, sans-serif;
-}
 
     /* The actual timeline (the vertical ruler) */
 .timeline {
@@ -147,11 +138,11 @@ body {
 My name is Manuel Lecha and I'm from Barcelona, Spain. I am a Mathematician and a Computer Scientist who has recently graduated from the MSc. in Advanced Mathematics at the Polytechnique University of Catalonia. 
 
 
-{{ <div class="timeline">
+<div class="timeline">
   <div class="container right">
     <div class="content">
       <h2>2016</h2>
       <p>Helloooo</p>
     </div>
   </div>
-</div> }}
+</div> 
