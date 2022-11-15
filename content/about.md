@@ -9,7 +9,7 @@ description: "About Me"
 
     /* The actual timeline (the vertical ruler) */
 .timeline {
-  position: relative;
+  position: left;
   max-width: 1200px;
   margin: 0 auto;
 }
@@ -48,28 +48,9 @@ description: "About Me"
   z-index: 1;
 }
 
-/* Place the container to the left */
-.left {
-  left: 0;
-}
-
 /* Place the container to the right */
 .right {
   left: 50%;
-}
-
-/* Add arrows to the left container (pointing right) */
-.left::before {
-  content: " ";
-  height: 0;
-  position: absolute;
-  top: 22px;
-  width: 0;
-  z-index: 1;
-  right: 30px;
-  border: medium solid white;
-  border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent white;
 }
 
 /* Add arrows to the right container (pointing left) */
@@ -122,7 +103,7 @@ description: "About Me"
   }
 
 /* Make sure all circles are at the same spot */
-  .left::after, .right::after {
+  .right::after {
     left: 15px;
   }
 
