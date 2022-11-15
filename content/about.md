@@ -14,7 +14,7 @@ My name is Manuel Lecha and I'm from Barcelona, Spain. I am a Mathematician and 
 ## EDUCATION
 
 
-<img src="/UPC.png" alt="UPC" position="center" style="height:50px; width:50px; float: left;"> [Master of Advanced Mathematics and Mathematical Engineering](https://mamme.masters.upc.edu/en/) @ Universitat Politècnica de Catalunya (*Sep 2021 - Oct 2022*)
+<img src="/UPC.png" alt="UPC" position="center" style="height:50px; width:50px; float: left;"> **Sep 2021 - Oct 2022** [Master of Advanced Mathematics and Mathematical Engineering](https://mamme.masters.upc.edu/en/) @ Universitat Politècnica de Catalunya 
 
 
 - Bachelor of Computer Science and Software Engineering @ Universitat de Barcelona
