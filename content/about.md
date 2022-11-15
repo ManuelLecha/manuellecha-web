@@ -7,5 +7,5 @@ description: "About Me"
 
 
 
-{{<image src="/images/roundme.png" alt="This is how I look like" position="center" style="border-radius: 8px; height: 100px; width:100px;">}}
+{{<image src="/roundme.png" alt="This is how I look like" position="center" style="border-radius: 8px; height: 100px; width:100px;">}}
 
