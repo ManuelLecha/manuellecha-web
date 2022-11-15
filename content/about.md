@@ -6,7 +6,7 @@ description: "About Me"
 ---
 
 
-{{ $asset := resources.Get "/roundme.png" }}
+{{ $asset := resources.Get "images/roundme.png" }}
 {{ $img := $asset.Fit "100x100" }}
 <img alt="This is me" src="{{ $img.RelPermalink }}" />
 
