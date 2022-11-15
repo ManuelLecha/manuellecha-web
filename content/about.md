@@ -13,7 +13,9 @@ My name is Manuel Lecha and I'm from Barcelona, Spain. I am a Mathematician and 
 
 ## EDUCATION
 
-<div> <img src="/UPC.png" alt="UPC" position="center" style="float: left;"> Master of Advanced Mathematics and Mathematical Engineering.</div>
+<div> 
+    <img src="/UPC.png" alt="UPC" position="center" style="float: left;">
+</div>
 
 <!-- {{<figure src="/UPC.png" alt="UPC" position="center" height="50px" width="50px"}} Master of Advanced Mathematics and Mathematical Engineering. -->
 
