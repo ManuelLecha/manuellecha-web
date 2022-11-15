@@ -9,6 +9,8 @@ description: "About Me"
 
 My name is Manuel Lecha and I'm from Barcelona, Spain. I am a Mathematician and a Computer Scientist who has recently graduated from the MSc. in Advanced Mathematics at the Polytechnique University of Catalonia. 
 
+<hr>
+
 ## EDUCATION
 
 - {{<figure src="/UPC.png" alt="UPC" position="center" height="100px" width="100px">}}  Master of Advanced Mathematics and Mathematical Engineering @ Universitat Politècnica de Catalunya
