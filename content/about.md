@@ -9,7 +9,7 @@ description: "About Me"
 
     /* The actual timeline (the vertical ruler) */
 .timeline {
-  position: left;
+  position: 0;
   max-width: 1200px;
   margin: 0 auto;
 }
@@ -122,8 +122,14 @@ My name is Manuel Lecha and I'm from Barcelona, Spain. I am a Mathematician and 
 <div class="timeline">
   <div class="container right">
     <div class="content">
-      <h2>2016</h2>
-      <p>Helloooo</p>
+      <h2>May 2021 - Oct 2022</h2>
+      <p>Doing some stufff babyyy</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>May 2020 - Oct 2021</h2>
+      <p>Doing some other stufff babyyy</p>
     </div>
   </div>
 </div> 
