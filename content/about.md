@@ -145,12 +145,13 @@ body {
 {{<figure src="/roundme.png" alt="This is how I look like" position="center" height="200px" width="200px">}} 
 
 My name is Manuel Lecha and I'm from Barcelona, Spain. I am a Mathematician and a Computer Scientist who has recently graduated from the MSc. in Advanced Mathematics at the Polytechnique University of Catalonia. 
-s
-<div class="timeline">
+
+
+{{ <div class="timeline">
   <div class="container right">
     <div class="content">
       <h2>2016</h2>
       <p>Helloooo</p>
     </div>
   </div>
-</div>
+</div> }}
