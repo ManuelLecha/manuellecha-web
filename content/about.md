@@ -6,7 +6,7 @@ description: "About Me"
 ---
 
 
-{{ $asset := resources.Get "/roundme.png" }}
+{{ $asset := resources.Get "/roundme.png.zip" }}
 {{ $img := $asset.Fit "100x100" }}
 
 <figure class="image is-3by2">
