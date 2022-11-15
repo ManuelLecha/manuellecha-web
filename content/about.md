@@ -10,5 +10,5 @@ description: "About Me"
 
 Que está pasando que no se actualiza nadaaaaa
 
-{{<image src="/roundme.png" alt="This is how I look like" position="center" style="border-radius: 8px; height: 100px; width:100px;">}}
+{{<figure src="/roundme.png" alt="This is how I look like" position="center" style="border-radius: 8px; height: 100px; width:100px;">}}
 
