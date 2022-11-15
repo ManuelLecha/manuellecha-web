@@ -7,6 +7,6 @@ description: "About Me"
 
 
 {{<figure>
-<im src="/roundme.png" alt="This is how I look like" position="center" style="border-radius: 8px; height: 10px; width:10px;">
+<im src="/roundme.png" alt="This is how I look like" position="center" style="height: 10px; width:10px;">
 </figure>}} 
 
