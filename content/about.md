@@ -5,28 +5,33 @@ draft: false
 description: "About Me" 
 ---
 
-> Welcome and thank you very much for your interest in reading a bit more about me. On this page I will provide an overview of my professional and academic experiences. However, if you are just interested in a one-page summary of it, I personally invite you to take a look at my [CV](https://cvws.icloud-content.com/B/AeMmdeMeq8lo92gNo5Fzb4kbHKAhAXt-F0hGJ6tnmKDCwwvj_FGDqCV7/ManuelLecha_CV_2022.pdf?o=AihnUiQ2rWgM0MHExfhO2TAKBJYv02Yb_6gOmaZNxvWF&v=1&x=3&a=CAogcmYYN4dL8sCHKyWwtOXJhd5VuwmXDvFdqSeOPJd9nBsSbxDL97SryDAYy9SQrcgwIgEAUgQbHKAhWgSDqCV7aif3aq9TlRG0UOBYYbt_himBEG0vqE_xwpHZJ0stdoIVTPGbKgY0Vv5yJzcO8Z-yHtAJh3Kv97GGngA3Tgbf60b8s7379FL8QHVeEpflH-469A&e=1668689439&fl=&r=b99ee2bc-8172-4716-ac9a-0b6233583e21-1&k=jJ1gm1_8zx54CMNx7nzEnw&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=43&s=iQBHLW5iJJcfnetIe8cWmK8Q-iE&cd=i). 
-
-<br>
-
 {{<figure src="/roundme.png" alt="This is how I look like" position="center" height="200px" width="200px">}} 
 
 <br>
 
-My name is Manuel Lecha and I'm from Barcelona, Spain. I am a Mathematician and a Computer Scientist who has recently graduated from the Master of Advanced Mathematics at the Universitat Politècnica de Catalunya. 
+Welcome and thank you very much for your interest in reading a bit more about me. My name is Manuel Lecha and I'm from Barcelona, Spain. I am a Mathematician and a Computer Scientist who has recently graduated from the Master of Advanced Mathematics at the Universitat Politècnica de Catalunya. 
 
 It is my professional goal to help build a better world through the advancement of science and technology. I am deeply interested in pure and computational mathematics, especially algebraic topology, geometry, artificial intelligence and algorithmics.
 
 Until now I have specialized myself in computational topology, in particular in general persistent homology theory, which is a booming field. I am currently interested in applying mathematical theory to the development of artificial intelligence, in particular to computer vision.
+
+On this page I will provide an overview of my professional and academic experiences. However, if you are just interested in a one-page summary of it, I personally invite you to take a look at my [CV](https://cvws.icloud-content.com/B/AeMmdeMeq8lo92gNo5Fzb4kbHKAhAXt-F0hGJ6tnmKDCwwvj_FGDqCV7/ManuelLecha_CV_2022.pdf?o=AihnUiQ2rWgM0MHExfhO2TAKBJYv02Yb_6gOmaZNxvWF&v=1&x=3&a=CAogcmYYN4dL8sCHKyWwtOXJhd5VuwmXDvFdqSeOPJd9nBsSbxDL97SryDAYy9SQrcgwIgEAUgQbHKAhWgSDqCV7aif3aq9TlRG0UOBYYbt_himBEG0vqE_xwpHZJ0stdoIVTPGbKgY0Vv5yJzcO8Z-yHtAJh3Kv97GGngA3Tgbf60b8s7379FL8QHVeEpflH-469A&e=1668689439&fl=&r=b99ee2bc-8172-4716-ac9a-0b6233583e21-1&k=jJ1gm1_8zx54CMNx7nzEnw&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=43&s=iQBHLW5iJJcfnetIe8cWmK8Q-iE&cd=i).
+
+<br>
+<hr>
+<br>
+
+**Table Of Contents**
+
+{{< table_of_contents >}}
 
 <br>
 <hr>
 
 ## EDUCATION
 
-Here I introduce some details about my educational background, starting from my main degrees 
-
 ### Main education
+
 
 First of all, the following three degrees constitute my main background:
 
@@ -74,12 +79,7 @@ Being accepted to Warwick did not just mean studying maths at a top-tier univers
 
 Definitely one of the most beneficial decisions I have made. By the way, I visited London 5+ times that year. I love that city!
 
-<br>
-<hr>
-
 <img src="/WARWICK.png" alt="WARWICK" position="center" style="height:50px; width:50px; float: left;"> [Bachelor of Mathematics (4th year)](https://warwick.ac.uk/study/undergraduate/courses/mathsbsc/) @ University of Warwick (Sep 2018 - Jul 2019).
-
-<hr>
 
 ### Other 
 
