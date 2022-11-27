@@ -5,23 +5,26 @@ draft: false
 description: "About Me" 
 ---
 
+<br>
+<br>
+
 {{<figure src="/roundme.png" alt="This is how I look like" position="center" height="200px" width="200px">}} 
 
 <br>
 
-Welcome and thank you very much for your interest in reading a bit more about me. My name is Manuel Lecha and I'm from Barcelona, Spain. I am a Mathematician and a Computer Scientist who has recently graduated from the Master of Advanced Mathematics at the Universitat Politècnica de Catalunya. 
+Hello, and welcome to my personal website!  My name is Manuel Lecha and I'm from Barcelona, Spain. I am a Mathematician and a Computer Scientist who has recently graduated from the Master of Advanced Mathematics at the Universitat Politècnica de Catalunya. 
 
 It is my professional goal to help build a better world through the advancement of science and technology. I am deeply interested in pure and computational mathematics, especially algebraic topology, geometry, artificial intelligence and algorithmics.
 
 Until now I have specialized myself in computational topology, in particular in general persistent homology theory, which is a booming field. I am currently interested in applying mathematical theory to the development of artificial intelligence, in particular to computer vision.
 
-On this page I will provide an overview of my professional and academic experiences. However, if you are just interested in a one-page summary of it, I personally invite you to take a look at my [CV](https://cvws.icloud-content.com/B/AeMmdeMeq8lo92gNo5Fzb4kbHKAhAXt-F0hGJ6tnmKDCwwvj_FGDqCV7/ManuelLecha_CV_2022.pdf?o=AihnUiQ2rWgM0MHExfhO2TAKBJYv02Yb_6gOmaZNxvWF&v=1&x=3&a=CAogcmYYN4dL8sCHKyWwtOXJhd5VuwmXDvFdqSeOPJd9nBsSbxDL97SryDAYy9SQrcgwIgEAUgQbHKAhWgSDqCV7aif3aq9TlRG0UOBYYbt_himBEG0vqE_xwpHZJ0stdoIVTPGbKgY0Vv5yJzcO8Z-yHtAJh3Kv97GGngA3Tgbf60b8s7379FL8QHVeEpflH-469A&e=1668689439&fl=&r=b99ee2bc-8172-4716-ac9a-0b6233583e21-1&k=jJ1gm1_8zx54CMNx7nzEnw&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=43&s=iQBHLW5iJJcfnetIe8cWmK8Q-iE&cd=i).
+On this page I will provide an overview of my professional and academic experiences. However, if you are just interested in a one-page summary of it, I personally invite you to take a look at my [CV](https://cvws.icloud-content.com/B/ASyUNn3BJI4Zy_Q0Z1zPP3xagCLxAZOJ04gbP_3sj7ble6R0eAf5_Fr5/ManuelLecha_CV_2022.pdf?o=AqDK-ZXs-7l1LEC-0mo4qj9RZhnZ4SDl-idPd8x7-LXR&v=1&x=3&a=CAogWpFZzW0E-XfFtuBP4-La7h2OBW4yljMWbZEm-QDGnVgSbxC86f7TyzAYvMba1cswIgEAUgRagCLxWgT5_Fr5aifzgjhTMVyUM_qwkT1Bl_6SdHUAHyDmxHAWjIa8R0x_kFT8zr4cIx9yJ5BB4NyMRq5z1gEptSttLABBpoMd-BM6rypYitHsF-tE3QYDufgt-g&e=1669579842&fl=&r=005f59cf-54e0-4d93-9cba-311f88c54d79-1&k=LN3tldMbJ3A2gt-Wi0P3RA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=43&s=zWIAIfGu5BQHVzMTdPMqYxZHoQo&cd=i).
 
 <br>
 <hr>
 <br>
 
-**Table Of Contents**
+**About Me**
 
 {{< table_of_contents >}}
 
@@ -30,16 +33,24 @@ On this page I will provide an overview of my professional and academic experien
 
 ## EDUCATION
 
-### Main education
+### Master level
 
+<img src="/UPC.png" alt="UPC" position="center" style="height:50px; width:50px; float: left;"> [Master of Advanced Mathematics and Mathematical Engineering](https://mamme.masters.upc.edu/en/) @ Universitat Politècnica de Catalunya (Sep 2021 - Oct 2022). 
 
-First of all, the following three degrees constitute my main background:
+Once I completed my undergraduate degree, there was no doubt in my mind that I wanted to continue my studies in mathematics. I wished to broaden my knowledge, explore new areas, and have the option to enroll in a PhD program if I later wanted to.
 
-<img src="/UPC.png" alt="UPC" position="center" style="height:50px; width:50px; float: left;"> [Master of Advanced Mathematics and Mathematical Engineering](https://mamme.masters.upc.edu/en/) @ Universitat Politècnica de Catalunya (Sep 2021 - Oct 2022).     
+First, I was planning to study my master's degree abroad. However, due to unexpected family duties I had to stay at my homeplace. 
 
--  **Courses**: Machine Learning, Algorithmic Geometry,  Differential Manifolds, Computational Algebra,  Graph Theory, Group Theory and Representation Group Theory.
+Once I knew I had to stay in Barcelona, one of the main reasons I chose to enroll in the Master's of Mathematics at the Universitat Politècnica de Catalunya was because it provided a wide variety of subjects, it allowed me to take both "pure-math" courses, such as Differential Manifolds, Group Theory or Graph Theory, as well as more applied ones, such as Machine Learning or Algorithmic Geometry. Moreover, it allowed students to enroll in subjects from other related masters, even from other universities, like the one I took on Computational Algebra at the Universitat de Barcelona. 
+
+Of course I do not have to mention the quality of the faculty and their members.
+
+- **Courses**: Machine Learning, Algorithmic Geometry,  Differential Manifolds, Computational Algebra,  Graph Theory, Group Theory and Representation Group Theory.
   
--  **Thesis**: Multiparameter Persistent Homology.
+- **Thesis**: Multiparameter Persistent Homology.
+
+
+### Bachelor level
 
 I studied the following two bachelors simultaneously in a dual pathway program offered by the Universitat de Barcelona (UB).
 
@@ -61,6 +72,8 @@ TDA aims to use techniques coming from algebraic topology to define descriptors 
 
 ### Education Abroad
 
+<img src="/WARWICK.png" alt="WARWICK" position="center" style="height:50px; width:50px; float: left;"> [Bachelor of Mathematics (4th year)](https://warwick.ac.uk/study/undergraduate/courses/mathsbsc/) @ University of Warwick (Sep 2018 - Jul 2019).
+
 I consider myself a curious person who has always been eager to discover and experience new things. To some degree, staying in my comfort zone makes me feel uncomfortable.
 
 My only family trip outside Spain was to London when I was twelve. I still remember it with deep affection. After that, I visited a few more cities by myself. Unfortunately, only European cities for now. However, I keep visualizing myself as someone who will not have Barcelona as the only place to call home, but will experience living in other places around the world.
@@ -79,9 +92,11 @@ Being accepted to Warwick did not just mean studying maths at a top-tier univers
 
 Definitely one of the most beneficial decisions I have made. By the way, I visited London 5+ times that year. I love that city!
 
-<img src="/WARWICK.png" alt="WARWICK" position="center" style="height:50px; width:50px; float: left;"> [Bachelor of Mathematics (4th year)](https://warwick.ac.uk/study/undergraduate/courses/mathsbsc/) @ University of Warwick (Sep 2018 - Jul 2019).
 
 ### Other 
+
+
+<img src="/UPC.png" alt="UPC" position="center" style="height:50px; width:50px; float: left;"> [Postgraduate Diploma in Financial Mathematics](https://www.talent.upc.edu/ing/estudis/formacio/curs/364800/posgrado-tecnicas-cuantitativas-mercados-financieros/) @ Universitat Politècnica de Catalunya (Oct 2020 - Jul 2021).
 
 Researching TDA's state-of-the-art methods for Time Series Analysis for my thesis, I came across several articles discussing applications to financial time series. My curiosity led me to read about Financial Maths theory, which quickly made me realize how little I knew about finance.
 
@@ -89,22 +104,39 @@ At that time I discovered a postgraduate program offered by the UPC, which cover
 
 As the class hours fit perfectly into my schedule, and I thought I would benefit both personally and professionally from learning more about finance and being more business driven, I decided to enroll. 
 
-<img src="/UPC.png" alt="UPC" position="center" style="height:50px; width:50px; float: left;"> [Postgraduate Diploma in Financial Mathematics](https://www.talent.upc.edu/ing/estudis/formacio/curs/364800/posgrado-tecnicas-cuantitativas-mercados-financieros/) @ Universitat Politècnica de Catalunya (Oct 2020 - Jul 2021).
 
 <br> 
 <hr>
 
 ## EXPERIENCE
 
-While I was at the last semester of the Maths-CS dual pathway program @ UB, focusing on my bachelor thesis and pursing and additionaly
+### Research
 
-<img src="/UPC.png" alt="UPC" position="center" style="height:50px; width:50px; float: left;"> Graduate Research Assistant @ IRI (CSIC-UPC) (Oct 2021 - Dec 2021).
+<img src="/UPC.png" alt="UPC" position="center" style="height:50px; width:50px; float: left;"> Graduate Research Assistant @ [IRI (CSIC-UPC)](https://www.iri.upc.edu) (Oct 2021 - Dec 2021).
 
-After finishing my thesis 
 
-<img src="/KPMG.png" alt="KPMG" position="center" style="height:50px; width:50px; float: left;"> Data Analyst @ KPMG (Mar 2021 - Sep 2021).
+### Data Analyst
 
-<img src="/IMATH.png" alt="IMATH" position="center" style="height:50px; width:50px; float: left;"> Data Analyst @ IMATH Sherpa (Dec 2020 - Mar 2021).
+
+<img src="/KPMG.png" alt="KPMG" position="center" style="height:50px; width:50px; float: left;"> Data Analyst @ [KPMG](https://home.kpmg/es/es/home/servicios/advisory/financial-services-consulting.html) (Mar 2021 - Sep 2021).
+
+**Key contributions:**
+
+- Implemented new features and fixed bugs in existing credit risk models according to legal and customer requirements using SAS.
+- Analysed undocumented existing code and its functionalities and wrote software documentation for improving teams future efficiency.
+- Introduced efficiencies into the existing workflow such as Agile frameworks.
+
+While completing my undergrad studies,  IMath Sherpa, a Barcelona-based startup, approached me. IMath's mission was to make available to small companies sufficient sophisticated tools for making socially responsible investment decisions.
+
+They, at that time, needed a Data Analyst Intern capable of helping develop those tools. Ivan, the founder, was a very kind and joyful man with a good-hearted mission, so I accepted the offer.
+
+<img src="/IMATH.png" alt="IMATH" position="center" style="height:50px; width:50px; float: left;"> Data Analyst Intern @ [IMATH Sherpa](https://www.imathsherpa.com/en-gb) (Dec 2020 - Mar 2021).
+
+- **Key contributions:**
+  - Implemented ML models to classify companies regarding their ESG data using Python.
+  - Modelled financial products to build social responsible investment portfolios using Python.
+  - Investigated companies to obtain additional data and find inconsistencies with respect to the available data.
+
 
 <br> 
 <hr>

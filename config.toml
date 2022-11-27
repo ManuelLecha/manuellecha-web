@@ -13,13 +13,13 @@ enableEmoji = true
 author = "Manuel Lecha"
 info = ["Mathematics & Computer Science"]
 keywords = "personal, Mathematics, Computer Science"
-avatarURL = "images/Logo.png"
+avatarURL = "roundme.png"
 description = "Hi! My name is Manuel Lecha and I am from Barcelona, Spain. I am a Mathematics and Computer Science graduate. Welcome to my personal webpage!"
 #gravatar = "mlechasanchez@gmail.com"
 showcredit = false
 since = 2022
 colorScheme = "auto"
-hideColorSchemeToggle = false
+hideColorSchemeToggle = true
 
 [taxonomies]
 category = "categories"
