@@ -12,11 +12,17 @@ description: "About Me"
 
 <br>
 
-Hello, and welcome to my personal website!  My name is Manuel Lecha and I'm from Barcelona, Spain. I am a Mathematician and a Computer Scientist who has recently graduated from the Master of Advanced Mathematics at the Universitat Politècnica de Catalunya. 
+<!--- Hello, and welcome to my personal website! My name is Manuel Lecha and I'm from Barcelona, Spain. I am a Mathematician and a Computer Scientist who has recently graduated from the Master of Advanced Mathematics at the Universitat Politècnica de Catalunya.
 
-It is my professional goal to help build a better world through the advancement of science and technology. I am deeply interested in pure and computational mathematics, especially algebraic topology, geometry, artificial intelligence and algorithmics.
+It is my professional goal to help build a better world through the advancement of science and technology. I am deeply interested in pure and computational mathematics, especially in geometry, algebraic topology, category theory, artificial intelligence and algorithmics.
 
-Until now I have specialized myself in computational topology, in particular in general persistent homology theory, which is a booming field. I am currently interested in applying mathematical theory to the development of artificial intelligence, in particular to computer vision.
+Until now I have specialized myself in computational topology, in particular in general persistent homology theory. I am currently delving into the field of geometrical deep learning.-->
+
+Hello, and welcome to my website! I am Manuel Lecha, a Research Scientist at the Mathematics & Computer Science department of the University of Barcelona. I hold an MSc in Mathematics from the Universitat Politècnica de Catalunya and two BScs, one in Mathematics, and another in Computer Science, both from the University of Barcelona.
+
+My main fields of interest are geometry, applied algebraic topology, group theory, category theory, artificial intelligence and algorithmics. During my bachelor's and master's thesis, I got into the field of topological data analysis, in particular, I studied the theory and applications of persistent homology, in both its univariate and multivariate versions. 
+
+Currently, I am delving into the field of geometrical deep learning--invariance and equivariance w.r.t. group actions as a prior for building new deep neural network architectures. I am falling in love with that approach!
 
 On this page I will provide an overview of my professional and academic experiences. However, if you are just interested in a one-page summary of it, I personally invite you to take a look at my [CV](https://cvws.icloud-content.com/B/ASyUNn3BJI4Zy_Q0Z1zPP3xagCLxAZOJ04gbP_3sj7ble6R0eAf5_Fr5/ManuelLecha_CV_2022.pdf?o=AqDK-ZXs-7l1LEC-0mo4qj9RZhnZ4SDl-idPd8x7-LXR&v=1&x=3&a=CAogWpFZzW0E-XfFtuBP4-La7h2OBW4yljMWbZEm-QDGnVgSbxC86f7TyzAYvMba1cswIgEAUgRagCLxWgT5_Fr5aifzgjhTMVyUM_qwkT1Bl_6SdHUAHyDmxHAWjIa8R0x_kFT8zr4cIx9yJ5BB4NyMRq5z1gEptSttLABBpoMd-BM6rypYitHsF-tE3QYDufgt-g&e=1669579842&fl=&r=005f59cf-54e0-4d93-9cba-311f88c54d79-1&k=LN3tldMbJ3A2gt-Wi0P3RA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=43&s=zWIAIfGu5BQHVzMTdPMqYxZHoQo&cd=i).
 
@@ -37,6 +43,10 @@ On this page I will provide an overview of my professional and academic experien
 
 <img src="/UPC.png" alt="UPC" position="center" style="height:50px; width:50px; float: left;"> [Master of Advanced Mathematics and Mathematical Engineering](https://mamme.masters.upc.edu/en/) @ Universitat Politècnica de Catalunya (Sep 2021 - Oct 2022). 
 
+- **Courses**: Machine Learning, Algorithmic Geometry,  Differential Manifolds, Computational Algebra,  Graph Theory, Group Theory and Representation Group Theory.
+  
+- **Thesis**: Multiparameter Persistent Homology.
+
 Once I completed my undergraduate degree, there was no doubt in my mind that I wanted to continue my studies in mathematics. I wished to broaden my knowledge, explore new areas, and have the option to enroll in a PhD program if I later wanted to.
 
 First, I was planning to study my master's degree abroad. However, due to unexpected family duties I had to stay at my homeplace. 
@@ -45,9 +55,7 @@ Once I knew I had to stay in Barcelona, one of the main reasons I chose to enrol
 
 Of course I do not have to mention the quality of the faculty and their members.
 
-- **Courses**: Machine Learning, Algorithmic Geometry,  Differential Manifolds, Computational Algebra,  Graph Theory, Group Theory and Representation Group Theory.
-  
-- **Thesis**: Multiparameter Persistent Homology.
+
 
 
 ### Bachelor level
@@ -66,7 +74,7 @@ As a result of being enrolled in the Maths-CS joint program, I had to present a 
 
 One day, while in a Computer Vision class, I started to think about extracting topological features from data for classification and learning tasks. I instantly googled the words Topology and Data to check if there was any existing material in that regard. I immediately discovered an entire field of research covering it, called Topological Data Analysis. After reading a bit, I realised it was a worthwhile topic to explore during my thesis.
 
-TDA aims to use techniques coming from algebraic topology to define descriptors of datasets. Therefore, drawing on knowledge from Topology, Machine Learning and Computational Theory. It was a perfect match for me, and I am still keeping an eye on developments in the field.
+TDA aims to use techniques coming from algebraic topology to define descriptors of datasets. Therefore, drawing on knowledge from Topology, Machine Learning and Computational Theory. Definitely it was a perfect match for me!
 
 - **Thesis**: Topological Data Analysis for Time Series Analysis.
 
@@ -74,7 +82,7 @@ TDA aims to use techniques coming from algebraic topology to define descriptors 
 
 <img src="/WARWICK.png" alt="WARWICK" position="center" style="height:50px; width:50px; float: left;"> [Bachelor of Mathematics (4th year)](https://warwick.ac.uk/study/undergraduate/courses/mathsbsc/) @ University of Warwick (Sep 2018 - Jul 2019).
 
-I consider myself a curious person who has always been eager to discover and experience new things. To some degree, staying in my comfort zone makes me feel uncomfortable.
+<!--- I consider myself a curious person who has always been eager to discover and experience new things. To some degree, staying in my comfort zone makes me feel uncomfortable.
 
 My only family trip outside Spain was to London when I was twelve. I still remember it with deep affection. After that, I visited a few more cities by myself. Unfortunately, only European cities for now. However, I keep visualizing myself as someone who will not have Barcelona as the only place to call home, but will experience living in other places around the world.
 
@@ -90,7 +98,9 @@ Last but not least, the University of Warwick was the most recognised mathematic
 
 Being accepted to Warwick did not just mean studying maths at a top-tier university but most importantly, learning and growing as a human being. I met people not only from England but from a wide range of different cultures, some of whom I still consider friends. 
 
-Definitely one of the most beneficial decisions I have made. By the way, I visited London 5+ times that year. I love that city!
+Definitely one of the most beneficial decisions I have made. By the way, I visited London 5+ times that year. I love that city!-->
+
+
 
 
 ### Other 
@@ -100,9 +110,9 @@ Definitely one of the most beneficial decisions I have made. By the way, I visit
 
 Researching TDA's state-of-the-art methods for Time Series Analysis for my thesis, I came across several articles discussing applications to financial time series. My curiosity led me to read about Financial Maths theory, which quickly made me realize how little I knew about finance.
 
-At that time I discovered a postgraduate program offered by the UPC, which covered several math-finance topics. This course examined both the elements of financial markets and the methodologies, techniques, and tools for valuing and modelling products, evaluating risks, and taking financial decisions.
+At that time I discovered a postgraduate program offered by the UPC, which covered several math-finance topics. This course examined the elements of financial markets and the methodologies, techniques, and tools for valuing and modelling products, evaluating risks and taking financial decisions.
 
-As the class hours fit perfectly into my schedule, and I thought I would benefit both personally and professionally from learning more about finance and being more business driven, I decided to enroll. 
+The class hours fit perfectly into my schedule, and I thought I would benefit both personally and professionally from learning more about finance and being more business-minded, so I decided to enrol.
 
 
 <br> 
@@ -114,11 +124,18 @@ As the class hours fit perfectly into my schedule, and I thought I would benefit
 
 <img src="/UPC.png" alt="UPC" position="center" style="height:50px; width:50px; float: left;"> Graduate Research Assistant @ [IRI (CSIC-UPC)](https://www.iri.upc.edu) (Oct 2021 - Dec 2021).
 
+During the first semester of my master's studies, I got a taste of working on a research project at the Robotics Institute [IRI](https://www.iri.upc.edu) associated with the UPC. 
+
+<img src="/UPC.png" alt="UPC" position="center" style="height:50px; width:50px; float: left;"> Graduate Research Assistant @ [IRI (CSIC-UPC)](https://www.iri.upc.edu) (Oct 2021 - Dec 2021).
+
+During the first semester of my master's studies, I got a taste of working on a research project at the Robotics Institute [IRI](https://www.iri.upc.edu) associated with the UPC. 
+
 
 ### Data Analyst
 
 
 <img src="/KPMG.png" alt="KPMG" position="center" style="height:50px; width:50px; float: left;"> Data Analyst @ [KPMG](https://home.kpmg/es/es/home/servicios/advisory/financial-services-consulting.html) (Mar 2021 - Sep 2021).
+
 
 **Key contributions:**
 
