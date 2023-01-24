@@ -1,6 +1,6 @@
 baseurl = "http://www.manuellecha.com"
 title = "Manuel Lecha"
-theme = "hugo-coder"
+theme = "hugo-coder."
 languagecode = "en"
 defaultcontentlanguage = "en"
 paginate = 20
