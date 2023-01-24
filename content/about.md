@@ -12,7 +12,7 @@ description: "About Me"
 
 <br>
 
-<!--- Hello, and welcome to my personal website! My name is Manuel Lecha and I'm from Barcelona, Spain. I am a Mathematician and a Computer Scientist who has recently graduated from the Master of Advanced Mathematics at the Universitat Politècnica de Catalunya.
+<!-- Hello, and welcome to my personal website! My name is Manuel Lecha and I'm from Barcelona, Spain. I am a Mathematician and a Computer Scientist who has recently graduated from the Master of Advanced Mathematics at the Universitat Politècnica de Catalunya.
 
 It is my professional goal to help build a better world through the advancement of science and technology. I am deeply interested in pure and computational mathematics, especially in geometry, algebraic topology, category theory, artificial intelligence and algorithmics.
 
@@ -60,7 +60,7 @@ The Master's of Mathematics at the Universitat Politècnica de Catalunya offers 
   
 - **Thesis**: Towards Multiparameter Persistent Homology.
 
-<!--- Once I completed my undergraduate degree, there was no doubt in my mind that I wanted to continue my studies in mathematics. I wished to broaden my knowledge, explore new areas, and have the option to enroll in a PhD program if I later wanted to.
+<!-- Once I completed my undergraduate degree, there was no doubt in my mind that I wanted to continue my studies in mathematics. I wished to broaden my knowledge, explore new areas, and have the option to enroll in a PhD program if I later wanted to.
 
 First, I was planning to study my master's degree abroad. However, due to unexpected family duties I had to stay at my homeplace. 
 
@@ -112,7 +112,7 @@ I highly recommend studying abroad to anyone who wants to challenge themselves a
 
 <img src="/WARWICK.png" alt="WARWICK" position="center" style="height:50px; width:50px; float: left;"> [Bachelor of Mathematics (4th year)](https://warwick.ac.uk/study/undergraduate/courses/mathsbsc/) @ University of Warwick (Sep 2018 - Jul 2019).
 
-<!--- I consider myself a curious person who has always been eager to discover and experience new things. To some degree, staying in my comfort zone makes me feel uncomfortable.
+<!-- I consider myself a curious person who has always been eager to discover and experience new things. To some degree, staying in my comfort zone makes me feel uncomfortable.
 
 My only family trip outside Spain was to London when I was twelve. I still remember it with deep affection. After that, I visited a few more cities by myself. Unfortunately, only European cities for now. However, I keep visualizing myself as someone who will not have Barcelona as the only place to call home, but will experience living in other places around the world.
 
@@ -140,7 +140,7 @@ I saw this program as a unique opportunity to not only gain a comprehensive unde
 
 <img src="/UPC.png" alt="UPC" position="center" style="height:50px; width:50px; float: left;"> [Postgraduate Diploma in Financial Mathematics](https://www.talent.upc.edu/ing/estudis/formacio/curs/364800/posgrado-tecnicas-cuantitativas-mercados-financieros/) @ Universitat Politècnica de Catalunya (Oct 2020 - Jul 2021).
 
-<!--- Researching TDA's state-of-the-art methods for Time Series Analysis for my thesis, I came across several articles discussing applications to financial time series. My curiosity led me to read about Financial Maths theory, which quickly made me realize how little I knew about finance.
+<!-- Researching TDA's state-of-the-art methods for Time Series Analysis for my thesis, I came across several articles discussing applications to financial time series. My curiosity led me to read about Financial Maths theory, which quickly made me realize how little I knew about finance.
 
 At that time I discovered a postgraduate program offered by the UPC, which covered several math-finance topics. This course examined the elements of financial markets and the methodologies, techniques, and tools for valuing and modelling products, evaluating risks and taking financial decisions.
 
