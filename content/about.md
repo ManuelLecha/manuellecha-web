@@ -192,7 +192,7 @@ As I completed my undergraduate studies, IMath Sherpa, a startup based in Barcel
 
 I was immediately drawn to the company's mission and the drive of the founder, Ivan. He had a clear and genuine vision of making a positive impact, which made me eager to join the team and contribute to their mission. I accepted the offer without hesitation, thrilled to work with such a motivated and socially-conscious organization.
 
-<img src="/IMATH.png" alt="IMATH" position="center" style="height:50px; width:50px; float: left;"> Data Analyst Intern @ [IMATH Sherpa](https://www.imathsherpa.com/en-gb) (Dec 2020 - Mar 2021).
+<img src="/IMATH.png" alt="IMATH" position="center" style="height:50px; width:50px; float: left;"> **Data Analyst Intern** @ [IMATH Sherpa](https://www.imathsherpa.com/en-gb) (Dec 2020 - Mar 2021).
 
 - **Key contributions:**
   - Implemented ML models to classify companies regarding their ESG data using Python.
