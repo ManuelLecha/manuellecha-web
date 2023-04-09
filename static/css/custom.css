@@ -1,0 +1,37 @@
+.toc {
+  position: fixed;
+  top: 10%;
+  right: 1rem;
+  width: 200px;
+  background-color: #f9f9f9;
+  padding: 1rem;
+  border-left: 1px solid #ccc;
+  overflow-y: auto;
+  max-height: 80%;
+  font-size: 0.9em;
+  z-index: 1000;
+}
+
+.toc h3 {
+  margin-top: 0;
+  font-size: 1.2em;
+  margin-bottom: 0.5em;
+}
+
+.toc ul {
+  list-style: none;
+  padding-left: 1rem;
+}
+
+.toc ul ul {
+  padding-left: 1rem;
+}
+
+.toc a {
+  text-decoration: none;
+  color: #333;
+}
+
+.toc a:hover {
+  text-decoration: underline;
+}

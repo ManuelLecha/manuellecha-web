@@ -1,0 +1,10 @@
+{{ if .TableOfContents }}
+<div class="toc">
+  <h3>Table of Contents</h3>
+  {{ .TableOfContents }}
+</div>
+{{ else }}
+<div class="toc">
+  <h3>No TOC generated</h3>
+</div>
+{{ end }}

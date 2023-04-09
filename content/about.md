@@ -18,23 +18,76 @@ It is my professional goal to help build a better world through the advancement 
 
 Until now I have specialized myself in computational topology, in particular in general persistent homology theory. I am currently delving into the field of geometrical deep learning.-->
 
-Hello, and welcome to my website! I am Manuel Lecha, a Research Scientist at the Mathematics & Computer Science department of the University of Barcelona. I hold an MSc in Mathematics from the Polytechnic University of Catalonia (UPC) and two BScs, one in Mathematics, and another in Computer Science, both from the University of Barcelona (UB).
+<!--Welcome to my website! I'm Manuel Lecha, a first-year PhD student in Mathematics and Computer Science at the [University of Barcelona](https://mat.ub.edu) under the guidance of Prof. [Sergio Escalera](https://sergioescalera.com). My main fields of interest include artificial intelligence, geometry and applied algebraic topology. In particular, my research will be focused on learning over neural network spaces, with a particular emphasis on its application in 3D computer vision. 
 
-My main fields of interest are geometry, applied algebraic topology, group theory, category theory, artificial intelligence and algorithmics. During my bachelor's and master's thesis, I got into the field of topological data analysis, in particular, I studied the theory and applications of persistent homology, in both its univariate and multivariate versions. 
+I hold a Master's degree in [Advanced Mathematics and Mathematical Engineering]((https://mamme.masters.upc.edu/en/)) from the [Polytechnic University of Catalonia](https://www.upc.edu/en). During part of my master's period I worked as a Graduate Research Assintant at the Robotics Institute [IRI](https://www.iri.upc.edu) associated to the Polytechnic University of Catalonia. I also hold dual degrees in [Mathematics and Computer Science](https://mat.ub.edu/degreemathsinfo/) from the University of Barcelona. As an undergraduate, I was awarded a scholarship to study Mathematics abroad at the [University of Warwick](https://warwick.ac.uk/study/undergraduate/courses/mathsbsc/), where I spent my fourth year. During both my bachelor's and master's theses, I focused on topological data analysis, specifically in the theory and practical applications of uniparametric and multiparametric persistent homology.
 
-Currently, I am delving into the field of geometrical deep learning---invariance and equivariance w.r.t. group actions as a prior for building new deep neural network architectures. I am falling in love with that approach!
+In addition, I also earned a [PGDip in Quantitative Finance](https://www.talent.upc.edu/ing/estudis/formacio/curs/364800/posgrado-tecnicas-cuantitativas-mercados-financieros/) from the Polytechnique University of Barcelona and gained valuable experience working as a Financial [Data Analyst] at both KPMG and IMath Sherpa, where I contributed to the development of investment and risk models.-->
 
-On this page I will provide an overview of my professional and academic experiences. However, if you are just interested in a one-page summary of it, I personally invite you to take a look at my [Curriculum Vitae](https://cvws.icloud-content.com/B/ASyUNn3BJI4Zy_Q0Z1zPP3xagCLxAZOJ04gbP_3sj7ble6R0eAf5_Fr5/ManuelLecha_CV_2022.pdf?o=AtlnXuQpqplgqq-i0yKv9n4olI66Hw4hnRv_PGH1SZhH&v=1&x=3&a=CAogTfbu0TgpKMQ9JVsGxeDJkMO3y8o2Y18tTVqBlA2WEQoSbxDQj6SY3jAY0Oz_md4wIgEAUgRagCLxWgT5_Fr5aifbQSz6Y4lJ2ysNsDgdoHiw2c16Kiw3zRt50MFZMHhTPrBK23imcnlyJ_VxJmK2eujZ39pCfZMEUBjk1HDMVyl14UdvJd4fBodwEfE3VrL2CA&e=1674554898&fl=&r=1c1c2c92-c64f-4ac0-a5c1-57652dfe51a3-1&k=LN3tldMbJ3A2gt-Wi0P3RA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=43&s=iSB4EjSLj42YGhHMLSlx8EcNLWM&cd=i).
+Welcome to my website! My name is Manuel Lecha, and I am a first-year PhD student in Mathematics and Computer Science at the [University of Barcelona](https://mat.ub.edu). Under the guidance of [Sergio Escalera](https://sergioescalera.com), my research primarily focuses on artificial intelligence, geometry, and applied algebraic topology. Specifically, I am exploring learning over neural network spaces and its applications in 3D computer vision.
 
+I have a Master's degree in [Advanced Mathematics and Mathematical Engineering]((https://mamme.masters.upc.edu/en/)) from the [Polytechnic University of Catalonia](https://www.upc.edu/en). During my master's journey, I had the opportunity to work as a Graduate Research Assistant at the Robotics Institute [IRI](https://www.iri.upc.edu), which is affiliated with the same university. Moreover, I hold dual degrees in [Mathematics and Computer Science](https://mat.ub.edu/degreemathsinfo/) obtained from the University of Barcelona. As an undergraduate, I was honored with a scholarship to study Mathematics abroad at the prestigious [University of Warwick](https://warwick.ac.uk/study/undergraduate/courses/mathsbsc/), where I spent my fourth year. My research in both my bachelor's and master's theses revolved around topological data analysis, delving into the theory and practical applications of uniparametric and multiparametric persistent homology.
+
+Furthermore, I earned a [PGDip in Quantitative Finance](https://www.talent.upc.edu/ing/estudis/formacio/curs/364800/posgrado-tecnicas-cuantitativas-mercados-financieros/) from the Polytechnic University of Barcelona, which further enriched my academic background. My professional experience includes working as a Financial Data Analyst at both [KPMG](https://home.kpmg/es/es/home/servicios/advisory/financial-services-consulting.html) and [IMATH Sherpa](https://www.imathsherpa.com/en-gb), where I gained valuable experience by contributing to the development of investment and risk models.
+
+<!-- My research will involve to learning in neural network spaces a
+Currently, I am starting s into the field of geometrical deep learning---invariance and equivariance w.r.t. group actions as a prior for building new deep neural network architectures. I am falling in love with that approach!-->
+
+On this page I will provide an overview of my professional and academic experiences. 
+
+{{< toc >}}
+
+However, if you are just interested in a one-page summary of it, I personally invite you to take a look at my [Curriculum Vitae](../Lecha_Manuel_CV.pdf).
 <br>
 <hr>
-<br>
 
-**About Me**
+## EXPERIENCE
 
-{{< table_of_contents >}}
+### Research 
 
-<br>
+Currently I am at my first year as a PhD Student at the University of Barcelona.
+
+<img src="/UB.png" alt="UB" position="center" style="height:50px; width:50px; float: left;">  **PhD Student in Mathematics and Computer Science** @ University of Barcelona (Feb 2023 - Present).
+
+During the first semester of my master's studies, I got a taste of working on a research project at the Robotics Institute [IRI](https://www.iri.upc.edu) associated with the UPC. 
+
+In this short experience I worked with self-expressive neural networks architectures for subspace clustering, which learn low-rank representation of the data and use it to cluster data points in different subspaces. In particular, to apply them to Human Motion Segmentation.
+
+
+<img src="/UPC.png" alt="UPC" position="center" style="height:50px; width:50px; float: left;"> **Graduate Research Assistant** @ [IRI (CSIC-UPC)](https://www.iri.upc.edu) (Oct 2021 - Dec 2021).
+
+
+### Data Analyst
+
+Along with my studies, I also have some experience working in the industry.
+
+While I was doing my internship, working on my bachelor's thesis, and completing my postgraduate diploma, I received an offer from KPMG to work as a Financial Data Analyst, one of the most reputable companies in the industry. Without hesitation, I accepted the opportunity to work with such a renowned firm. My experience at KPMG was just a bit more than half a year, but during that time, I had the opportunity to take part in a project from start to end.
+
+The skills I acquired while working at KPMG were invaluable. Not only did I have the opportunity to work on a real industrial project and gain insights from experienced professionals, but I also got to understand the dynamics of working in a big company. Through my time at KPMG, I was able to sharpen my teamwork skills and time management abilities. I also started to learn to navigate through complex situations and to effectively deal with clients.
+
+Furthermore, working at KPMG also helped me financially, as I was able to save up and pay for my master's degree. Overall, it was an incredible experience that I am grateful for and it has helped me to further my career and continue to pursue my goals.
+
+<img src="/KPMG.png" alt="KPMG" position="center" style="height:50px; width:50px; float: left;"> **Data Analyst** @ [KPMG](https://home.kpmg/es/es/home/servicios/advisory/financial-services-consulting.html) (Mar 2021 - Sep 2021).
+
+
+**Key contributions:**
+
+- Implemented new features and fixed bugs in existing credit risk models according to legal and customer requirements using SAS.
+- Analysed undocumented existing code and its functionalities and wrote software documentation for improving teams future efficiency.
+- Introduced efficiencies into the existing workflow such as Agile frameworks.
+
+As I completed my undergraduate studies, IMath Sherpa, a startup based in Barcelona focused on socially responsible investments, approached me. Their mission is to empower small businesses with the necessary tools and resources to make responsible investment decisions.
+
+I was immediately drawn to the company's mission and the drive of the founder, Ivan. He had a clear and genuine vision of making a positive impact, which made me eager to join the team and contribute to their mission. I accepted the offer without hesitation, thrilled to work with such a motivated and socially-conscious organization.
+
+<img src="/IMATH.png" alt="IMATH" position="center" style="height:50px; width:50px; float: left;"> **Data Analyst Intern** @ [IMATH Sherpa](https://www.imathsherpa.com/en-gb) (Dec 2020 - Mar 2021).
+
+**Key contributions:**
+  - Implemented ML models to classify companies regarding their ESG data using Python.
+  - Modelled financial products to build social responsible investment portfolios using Python.
+  - Investigated companies to obtain additional data and find inconsistencies with respect to the available data.
+  
+<br> 
 <hr>
 
 ## EDUCATION
@@ -98,8 +151,6 @@ TDA aims to use techniques coming from algebraic topology to estime topological 
 In TDA, researchers and practitioners aim to use algebraic topology and machine learning techniques to estimate and define topological quantities and descriptors of datasets. Therefore, drawing on knowledge from Topology, Machine Learning and Computational Theory. It was a perfect match for me!-->
 
 
-
-
 ### Education Abroad
 
 As a person who is always eager to discover new things and push beyond my comfort zone, I jumped at the opportunity to study abroad at the University of Warwick in England. Not only did Warwick offer a rare opportunity for a full year stay, unlike most other universities that only offered half a year, but it was also located in a country I've always dreamed of living in and had a reputation as a top mathematical institution.
@@ -147,57 +198,6 @@ At that time I discovered a postgraduate program offered by the UPC, which cover
 The class hours fit perfectly into my schedule, and I thought I would benefit both personally and professionally from learning more about finance and being more business-minded, so I decided to enrol. -->
 
 
-<br> 
-<hr>
-
-## EXPERIENCE
-
-### Research Scientist
-
-Currently, I am taking part on a 3D Computer Vision research project related with 3D Human Body and garment reconstructions. I am also collaborating in other research paths, regarding Topological Data Analysis and Geometric Deep Learning. 
-
-<img src="/UB.png" alt="UB" position="center" style="height:50px; width:50px; float: left;"> **Machine Learning Researcher** @ Department of Mathematics and Computer Science of the University of Barcelona (Nov 2022 - Present).
-
-
-### Graduate Research Assistant
-
-During the first semester of my master's studies, I got a taste of working on a research project at the Robotics Institute [IRI](https://www.iri.upc.edu) associated with the UPC. 
-
-In this short experience I worked with self-expressive neural networks architectures for subspace clustering, which learn low-rank representation of the data and use it to cluster data points in different subspaces. In particular, to apply them to Human Motion Segmentation.
-
-
-<img src="/UPC.png" alt="UPC" position="center" style="height:50px; width:50px; float: left;"> **Graduate Research Assistant** @ [IRI (CSIC-UPC)](https://www.iri.upc.edu) (Oct 2021 - Dec 2021).
-
-
-### Data Analyst
-
-Along with my studies, I also have some experience working in the industry.
-
-While I was doing my internship, working on my bachelor's thesis, and completing my postgraduate diploma, I received an offer from KPMG to work as a Financial Data Analyst, one of the most reputable companies in the industry. Without hesitation, I accepted the opportunity to work with such a renowned firm. My experience at KPMG was just a bit more than half a year, but during that time, I had the opportunity to take part in a project from start to end.
-
-The skills I acquired while working at KPMG were invaluable. Not only did I have the opportunity to work on a real industrial project and gain insights from experienced professionals, but I also got to understand the dynamics of working in a big company. Through my time at KPMG, I was able to sharpen my teamwork skills and time management abilities. I also started to learn to navigate through complex situations and to effectively deal with clients.
-
-Furthermore, working at KPMG also helped me financially, as I was able to save up and pay for my master's degree. Overall, it was an incredible experience that I am grateful for and it has helped me to further my career and continue to pursue my goals.
-
-<img src="/KPMG.png" alt="KPMG" position="center" style="height:50px; width:50px; float: left;"> **Data Analyst** @ [KPMG](https://home.kpmg/es/es/home/servicios/advisory/financial-services-consulting.html) (Mar 2021 - Sep 2021).
-
-
-**Key contributions:**
-
-- Implemented new features and fixed bugs in existing credit risk models according to legal and customer requirements using SAS.
-- Analysed undocumented existing code and its functionalities and wrote software documentation for improving teams future efficiency.
-- Introduced efficiencies into the existing workflow such as Agile frameworks.
-
-As I completed my undergraduate studies, IMath Sherpa, a startup based in Barcelona focused on socially responsible investments, approached me. Their mission is to empower small businesses with the necessary tools and resources to make responsible investment decisions.
-
-I was immediately drawn to the company's mission and the drive of the founder, Ivan. He had a clear and genuine vision of making a positive impact, which made me eager to join the team and contribute to their mission. I accepted the offer without hesitation, thrilled to work with such a motivated and socially-conscious organization.
-
-<img src="/IMATH.png" alt="IMATH" position="center" style="height:50px; width:50px; float: left;"> **Data Analyst Intern** @ [IMATH Sherpa](https://www.imathsherpa.com/en-gb) (Dec 2020 - Mar 2021).
-
-- **Key contributions:**
-  - Implemented ML models to classify companies regarding their ESG data using Python.
-  - Modelled financial products to build social responsible investment portfolios using Python.
-  - Investigated companies to obtain additional data and find inconsistencies with respect to the available data.
 
 <!--
 

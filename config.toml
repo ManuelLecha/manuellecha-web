@@ -10,16 +10,20 @@ pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 
 [params]
+katex = true
+custom_css = ["css/custom.css"]
+extra_head = "extra_head.html"
 author = "Manuel Lecha"
-info = ["Mathematics & Computer Science"]
+info = ["PhD Student at University of Barcelona"]
 keywords = "personal, Mathematics, Computer Science"
 avatarURL = "roundme.png"
 description = "Hi! My name is Manuel Lecha and I am from Barcelona, Spain. I am a Mathematics and Computer Science graduate. Welcome to my personal webpage!"
 #gravatar = "mlechasanchez@gmail.com"
 showcredit = false
-since = 2022
+since = 2023
 colorScheme = "auto"
 hideColorSchemeToggle = true
+
 
 [taxonomies]
 category = "categories"
@@ -51,7 +55,6 @@ icon = "fa fa-2x fa-twitter"
 weight = 4
 url = "https://twitter.com/manuel_lecha"
 
-
 [languages.en]
 languageName = ":uk:"
 
@@ -65,5 +68,11 @@ name = "Blog"
 weight = 2
 url = "posts/"
 
+[[languages.en.menu.main]]
+name = "Materials"
+weight = 3
+url = "materials/"
+
 [markup.goldmark.renderer]
     unsafe = true
+
