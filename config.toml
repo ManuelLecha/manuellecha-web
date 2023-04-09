@@ -11,7 +11,7 @@ enableEmoji = true
 
 [params]
 katex = true
-custom_css = ["css/custom.css"]
+#customCSS = ["css/custom.css"]
 extra_head = "extra_head.html"
 author = "Manuel Lecha"
 info = ["PhD Student at University of Barcelona"]
@@ -23,6 +23,7 @@ showcredit = false
 since = 2023
 colorScheme = "auto"
 hideColorSchemeToggle = true
+favicon_32 = "roundme.png"
 
 
 [taxonomies]
